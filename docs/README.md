@@ -1,6 +1,6 @@
 # OctoAcme Project Management Docs
 
-Welcome to the OctoAcme Project Management process documentation. This folder contains standardized guidance for running projects, managing teams, and delivering value.
+Welcome to the OctoAcme Project Management process documentation. Use this README as the centralized index and entry point for the process guides in this folder. It contains standardized guidance for running projects, managing teams, and delivering value.
 
 ## Quick Start
 
